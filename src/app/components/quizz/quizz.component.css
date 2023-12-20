@@ -73,3 +73,9 @@
     align-items: center;
 }
 
+.quizz_results p{
+    margin: 10px;
+    color: #DEAC52;
+    font-family: Helvetica,Arial,sans-serif;
+
+}
